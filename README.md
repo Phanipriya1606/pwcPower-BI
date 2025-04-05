@@ -1,4 +1,4 @@
-# 🚀 PwC Switzerland Power BI Virtual Experience – June 2024
+# 🚀 PwC Switzerland Power BI Virtual Experience – March 2025
 
 Welcome to the results of my immersive journey through the **PwC Switzerland Power BI Job Simulation**, hosted on [Forage](https://www.theforage.com/). This experience was a deep dive into the intersection of **data storytelling**, **dashboard design**, and **strategic problem-solving**—all through the lens of real-world client scenarios.
 
